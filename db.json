@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Myra"
+      "name": "Myra Magle"
     },
     {
       "name": "Tim Dietrich",
@@ -19,12 +19,28 @@
     {
       "name": "Eugene Kreiger",
       "id": 5
+    },
+    {
+      "name": "Shawna Ritchie",
+      "id": 6
     }
   ],
-  "albums": [{
-    "id": 10,
-    "title": "Hiking Trip",
-    "userId": 1
-  }],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Cotton Bacon",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Bronze Fish",
+      "id": 12
+    }
+  ],
   "photos": []
 }
