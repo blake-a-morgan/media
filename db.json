@@ -21,25 +21,45 @@
       "id": 5
     },
     {
-      "name": "Shawna Ritchie",
-      "id": 6
+      "name": "Phillip Bergnaum",
+      "id": 7
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Rustic Cotton Bacon",
-      "id": 11
-    },
-    {
       "userId": 1,
       "title": "Ergonomic Bronze Fish",
       "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Refined Wooden Table",
+      "id": 15
+    },
+    {
+      "userId": 4,
+      "title": "Gorgeous Wooden Hat",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Bronze Soap",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Small Metal Chair",
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Steel Gloves",
+      "id": 21
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Fresh Bike",
+      "id": 22
     }
   ],
   "photos": []
