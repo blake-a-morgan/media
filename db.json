@@ -17,12 +17,8 @@
       "id": 4
     },
     {
-      "name": "Eugene Kreiger",
+      "name": "Jean Beer",
       "id": 5
-    },
-    {
-      "name": "Phillip Bergnaum",
-      "id": 7
     }
   ],
   "albums": [
@@ -42,11 +38,6 @@
       "id": 16
     },
     {
-      "userId": 1,
-      "title": "Rustic Bronze Soap",
-      "id": 17
-    },
-    {
       "userId": 3,
       "title": "Small Metal Chair",
       "id": 20
@@ -60,6 +51,16 @@
       "userId": 2,
       "title": "Ergonomic Fresh Bike",
       "id": 22
+    },
+    {
+      "userId": 2,
+      "title": "Modern Frozen Tuna",
+      "id": 23
+    },
+    {
+      "userId": 2,
+      "title": "Small Plastic Gloves",
+      "id": 24
     }
   ],
   "photos": []
